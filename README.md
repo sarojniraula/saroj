@@ -30,7 +30,7 @@ Designed and implemented a comprehensive mobile app for Kyky Today Oy, enabling 
 Collaborated on various Fantasy Premier League (FPL) projects involving both mobile and web applications. Contributed to creating an immersive experience for FPL enthusiasts.
 
 ### Currency Converter Mobile App
-Developed a currency converter mobile app using React Native, providing users with the ability to quickly convert currencies based on real-time exchange rates.
+Developed a currency converter mobile app using React Native, providing users with the ability to quickly convert currencies.
 
 ## 🔗 Let's Connect
 
