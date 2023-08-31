@@ -21,7 +21,7 @@ I believe in the power of code to transform ideas into reality. With a passion f
 
 ### Trade Union Mobile App - SCSoftware Oy
 Developed a mobile app suitable for a trade union to enhance communication and member engagement. Utilized React Native for cross-platform compatibility.
-<img src="https://i.imgur.com/3inagqs.png" width="50" />
+<img src="https://i.imgur.com/3inagqs.png" width="auto" height="50" />
 
 ### Business Platform Mobile App - Kyky Today Oy
 Designed and implemented a comprehensive mobile app for Kyky Today Oy, enabling users to explore the company's services and facilitating employer-employee interactions. Built using React Native.
