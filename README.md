@@ -24,7 +24,9 @@ Developed a mobile app suitable for a trade union to enhance communication and m
 <img src="https://i.imgur.com/3inagqs.png" width="auto" height="500" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/H4m8HvV.png" width="auto" height="500" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://i.imgur.com/hBPeY5g.png" width="auto" height="500" /> <br /> <br /> <br />
-<img src="https://i.imgur.com/O7xXF0O.png" width="auto" height="500" />
+<img src="https://i.imgur.com/O7xXF0O.png" width="auto" height="500" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/6rxgory.png" width="auto" height="500" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.imgur.com/Hv40Y4c.png" width="auto" height="500" />
 
 ### Business Platform Mobile App - Kyky Today Oy
 Designed and implemented a comprehensive mobile app for Kyky Today Oy, enabling users to explore the company's services and facilitating employer-employee interactions. Built using React Native.
